@@ -1,0 +1,6 @@
+{
+  "name": "PostFlow",
+  "description": "PostFlow is a social media content management and scheduling application. Create, schedule, and publish posts to Instagram and social accounts with calendar, analytics, and smart notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
